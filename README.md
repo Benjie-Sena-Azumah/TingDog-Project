@@ -68,13 +68,13 @@ $0/mo
 10 Messages Per Day
 Unlimited App Usage
 
-Labrador
+Poddle
 $15/mo
 Unlimited Matches
 Unlimited Messages
 Unlimited App Usage
 
-Mastiff
+German Sheperd
 $29/mo
 Pirority Listing
 Unlimited Matches & Messages
